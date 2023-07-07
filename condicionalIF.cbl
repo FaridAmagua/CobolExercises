@@ -60,5 +60,6 @@
                DISPLAY "the result is greater than 50"
            ELSE
                DISPLAY "the result is less or equal to 50"
+           END-IF.
             STOP RUN.
        END PROGRAM Divisiones.
