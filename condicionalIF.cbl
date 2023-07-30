@@ -24,7 +24,6 @@
            DISPLAY HI" "FECHA.
            MOVE "WELCOME TO MY PORTFOLIO "TO WELCOME.
            DISPLAY "EVERYONE " WELCOME.
-
                DISPLAY "SUMA"
            DISPLAY "ENTER A NUMBER:"
            ACCEPT NUM1.
